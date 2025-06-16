@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Plan Weekly Schedule",
+    "description": "Set priorities and allocate time for each key area of your life",
+    "subtasks": [
+      "Review upcoming meetings and deadlines",
+      "Block time for deep work and admin tasks",
+      "Schedule personal time (exercise, meals, breaks)",
+      "Add buffer slots for unexpected tasks"
+    ]
+  },
+  {
+    "title": "Clean Up Workspace",
+    "description": "Declutter and prepare your physical and digital space for the week",
+    "subtasks": [
+      "Tidy up desk and organize supplies",
+      "Clear old files from desktop",
+      "Close unused tabs and restart browser",
+      "Organize task manager or to-do list"
+    ]
+  },
+  {
+    "title": "Meal & Grocery Planning",
+    "description": "Save time and stay healthy by preparing your meals in advance",
+    "subtasks": [
+      "Plan 3–5 main meals for the week",
+      "Check pantry and fridge inventory",
+      "Write grocery list",
+      "Do grocery shopping or schedule delivery"
+    ]
+  },
+  {
+    "title": "Fitness & Health Planning",
+    "description": "Ensure you stay active and healthy throughout the week",
+    "subtasks": [
+      "Choose 3–5 workout days",
+      "Add workouts to calendar",
+      "Prepare gym clothes and gear",
+      "Set hydration and sleep goals"
+    ]
+  },
+  {
+    "title": "Review & Reflect",
+    "description": "Evaluate last week and mentally prep for the new one",
+    "subtasks": [
+      "List wins and challenges from last week",
+      "Note what to improve",
+      "Set 1–2 weekly goals",
+      "Write a short intention or affirmation"
+    ]
+  }
+]
